@@ -71,7 +71,7 @@ Você pode executar o projeto de duas formas: via código-fonte em Python ou uti
    
 ## Desenvolvedores:
 
-Ana Caroline Souza Mendes
-Eduardo do Carmo Szadkowski
-Jamim Suriel Fortaleza Silva 
-Nailton Caldeira dos Santos Filho
+Ana Caroline Souza Mendes,
+Eduardo do Carmo Szadkowski,
+Jamim Suriel Fortaleza Silva, 
+Nailton Caldeira dos Santos Filho.
