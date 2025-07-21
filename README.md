@@ -23,7 +23,7 @@ Esta ferramenta permite analisar reações de apoio, diagramas de força cortant
 - pandas – Leitura e manipulação de planilhas
 - matplotlib e numpy – Geração de gráficos dos diagramas
 - fpdf – Geração de arquivos PDF com os resultados
-- pillow – Manipulação de imagens
+- `Pillow` – Manipulação de imagens
 
 ---
 
