@@ -53,10 +53,10 @@ O código utiliza conceitos fundamentais de programação em Python, como:
 
 ## 🔗 Arquivos para Download
 
-- 📄 [Relatório `LaTeX` completo](https://www.overleaf.com/read/tbbhzysckrry#f2d23b)
-- 📽️ [Apresentação de `slides em LaTeX` (Beamer)](https://www.overleaf.com/read/xnhbkbsgqksp#a42421)
-- 📦 [Download do `executável` (.exe)](https://drive.google.com/drive/folders/1Ecj31lPfMhjptuNqPDsPL9nnydcmb5IM?usp=sharing)
-- 🌈 [Download da `Rede de Petri Colorida` (.cpn)](https://drive.google.com/drive/folders/1Y1kwLDYVQ9YBTiOI3lCD5T7ta2aLenbI?usp=drive_link)
+- 📄 [`Relatório LaTeX completo`](https://www.overleaf.com/read/tbbhzysckrry#f2d23b)
+- 📽️ [`Apresentação de slides em LaTeX` (Beamer)](https://www.overleaf.com/read/xnhbkbsgqksp#a42421)
+- 📦 [`Download do executável` (.exe)](https://drive.google.com/drive/folders/1Ecj31lPfMhjptuNqPDsPL9nnydcmb5IM?usp=sharing)
+- 🌈 [`Download da Rede de Petri Colorida` (.cpn)](https://drive.google.com/drive/folders/1Y1kwLDYVQ9YBTiOI3lCD5T7ta2aLenbI?usp=drive_link)
 
 ---
 
